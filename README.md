@@ -6,4 +6,4 @@
 
 - uses NextJS dynamic import for component (DynamicPDFExport.tsx) so that the react-pdf is not imported on server and component not rendered on server
 
-in bot examples page will crash but only in v1 will there be an error in console
+in both examples page will crash but only on v1 page will there be an error in the console
